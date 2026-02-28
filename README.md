@@ -29,7 +29,7 @@
                     <h4 class="mt-4 mb-3">ข้อมูลส่วนตัว</h4>
                     <ul class="list-unstyled">
                         <li><strong>ชื่อ:</strong> <span id="intro_fullname">วิชญาพร บุญเจริญ</span></li>
-                        <li><strong>ชื่อเล่น:</strong> <span id="intro_nickname">วิช</span></li>
+                        <li><strong>ชื่อเล่น:</strong> <span id="intro_nickname">โมบาย</span></li>
                         <li><strong>วันเกิด:</strong> <span id="intro_birthday">-</span></li>
                         <li><strong>ที่อยู่:</strong> <span id="intro_address">อุบลราชธานี</span></li>
                         <li><strong>Email:</strong> <span id="intro_email">-</span></li>
