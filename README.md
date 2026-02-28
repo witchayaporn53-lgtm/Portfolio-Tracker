@@ -5,7 +5,7 @@
                 <img id="coverPhoto" src="https://via.placeholder.com/200" alt="Profile" class="profile-image">
             </div>
             <h1 class="display-3 fw-bold mb-3">วิชญาพร บุญเจริญ</h1>
-            <h3 class="lead mb-2">Witchayaporn Yuvruang</h3>
+            <h3 class="lead mb-2">Witchayaporn Booncharoen</h3>
             <p class="h5 mb-4">Mobile Student to Bright Future</p>
             <div class="divider mb-4"></div>
             <p class="mb-3"><i class="fas fa-school"></i> โรงเรียนนารีนุกูล อุบลราชธานี</p>
